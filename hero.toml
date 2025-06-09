@@ -1,0 +1,28 @@
+[title]
+title = ""
+img = ""
+catchphrase = ""
+pronouns = [ "" ]
+
+[personal]
+name1 = ""
+name2 = ""
+age = ""
+desc = ""
+flags = [ "foo" ]
+work = ""
+timezone = ""
+location = ""
+
+[colors]
+background = ""
+widget = ""
+link = ""
+hover = ""
+title = ""
+text = ""
+bgimg = ""
+
+[[urls]]
+url = ""
+title = "Link"
