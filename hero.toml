@@ -1,28 +1,32 @@
 [title]
-title = ""
+title = "Clue Doe"
 img = ""
-catchphrase = ""
-pronouns = [ "" ]
+catchphrase = "My mind has escaped me."
+pronouns = [ "She/Her", "They/Them", "He/Him" ]
 
 [personal]
-name1 = ""
-name2 = ""
-age = ""
-desc = ""
-flags = [ "foo" ]
-work = ""
-timezone = ""
-location = ""
+name1 = "Clue"
+name2 = "Doe"
+age = "Adult"
+desc = "Just another enby floating in this world."
+flags = [ "trans", "nb", "queer" ]
+work = "Student"
+timezone = "GMT/BST"
+location = "Europe"
 
 [colors]
-background = ""
-widget = ""
-link = ""
-hover = ""
-title = ""
-text = ""
+background = "#eff1f5"
+widget = "#ccd0da"
+link = "#ccd0da"
+hover = "#acb0be"
+title = "#7287fd"
+text = "#4c4f69"
 bgimg = ""
 
 [[urls]]
-url = ""
-title = "Link"
+url = "https://clue.is-a.dev"
+title = "Website"
+
+[[urls]]
+title = "Discord"
+url = "https://discord.com/users/761648107787124768"
