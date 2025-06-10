@@ -24,9 +24,13 @@ text = "#4c4f69"
 bgimg = "https://lofigirl.com/wp-content/uploads/2023/11/Kupla-16.9-scaled.jpg"
 
 [[urls]]
-url = "https://clue.is-a.dev"
 title = "Website"
+url = "https://clue.is-a.dev"
 
 [[urls]]
 title = "Discord"
 url = "https://discord.com/users/761648107787124768"
+
+[[urls]]
+title = "Github"
+url = "https://github.com/qqwui"
